@@ -1,2 +1,4 @@
-# Und-4-
-Governança, ITIL, COBIT e ESG
+Ferramentas de gestão de configuração, visando a Governança de TI,
+disponibilização de recursos de Infraestrutura, facilitando o gerenciamento de projetos de
+sistemas.
+
